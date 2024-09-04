@@ -15,7 +15,8 @@ This project involves analyzing and querying data from an orders database. The d
 - **PRODUCT_CLASS**: Groups products into categories or classes.
 - **SHIPPER**: Stores data related to the shippers responsible for delivering orders.
 
-#Questions
+##Questions
+
 -- 1. WRITE A QUERY TO DISPLAY CUSTOMER FULL NAME WITH THEIR TITLE (MR/MS), BOTH FIRST NAME AND LAST NAME ARE IN UPPER CASE WITH 
 -- CUSTOMER EMAIL ID, CUSTOMER CREATIONDATE AND DISPLAY CUSTOMER’S CATEGORY AFTER APPLYING BELOW CATEGORIZATION RULES:
 	-- i.IF CUSTOMER CREATION DATE YEAR <2005 THEN CATEGORY A
